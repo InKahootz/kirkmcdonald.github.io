@@ -17,7 +17,8 @@
   },
   "homepage": "https://github.com/inkahootz/kirkmcdonald.github.io#readme",
   "dependencies": {
-    "d3": "^5.7.0"
+    "d3": "^3.5.17",
+    "electron-window-state": "^5.0.2"
   },
   "devDependencies": {
     "electron": "^3.0.6"
