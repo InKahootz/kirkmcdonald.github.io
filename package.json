@@ -1,0 +1,25 @@
+{
+  "name": "factorio_calc",
+  "version": "1.0.0",
+  "description": "Offline version of Kirk McDonald's Factorio calculator",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inkahootz/kirkmcdonald.github.io.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/inkahootz/kirkmcdonald.github.io/issues"
+  },
+  "homepage": "https://github.com/inkahootz/kirkmcdonald.github.io#readme",
+  "dependencies": {
+    "d3": "^5.7.0"
+  },
+  "devDependencies": {
+    "electron": "^3.0.6"
+  }
+}

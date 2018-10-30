@@ -1,5 +1,7 @@
 "use strict"
 
+var d3 = require("d3");
+
 function OutputRecipe() {
     this.ingredients = []
     for (var i = 0; i < build_targets.length; i++) {
